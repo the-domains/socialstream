@@ -6,9 +6,9 @@ color:
   saturation: 0.6879931704606861
   rhythmicContrast: 0.6516283941455185
   brandColors:
-    - '#000000'
-    - '#333333'
-    - '#FF358B'
-    - '#01B0F0'
-    - '#AEEE00'
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
 name: SocialStream
