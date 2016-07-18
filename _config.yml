@@ -4,15 +4,15 @@ author:
   url: HeathPatterson.net
 color:
   brandColors:
-    - '#333333'
-    - '#F9F9F9'
-    - '#BDBDBD'
-    - '#515151'
-    - '#969696'
-  brandStrength: 0.7444696936290711
-  lightness: 0.8103019988629967
-  rhythmicContrast: 0.6516283941455185
-  saturation: 0.6879931704606861
+    - '#B6B8C4'
+    - '#7F7269'
+    - '#183314'
+    - '#DDD8D5'
+    - '#F4FFFE'
+  brandStrength: 0.990132
+  lightness: 1
+  rhythmicContrast: 0.495066
+  saturation: 0.507401
 layout_spectrum: 0.898026
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/9fee31ee-5f57-4f08-b35f-4113604e57bc.jpg
