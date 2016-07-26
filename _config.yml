@@ -1,7 +1,4 @@
-author:
-  email: DeepSouthMS3@gmail.com
-  name: Heath Patterson
-  url: HeathPatterson.net
+typography_spectrum: 1
 color:
   brandColors:
     - '#B6B8C4'
@@ -14,8 +11,11 @@ color:
   rhythmicContrast: 0.495066
   saturation: 0.507401
 layout_spectrum: 0.898026
+author:
+  email: DeepSouthMS3@gmail.com
+  name: Heath Patterson
+  url: HeathPatterson.net
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/9fee31ee-5f57-4f08-b35f-4113604e57bc.jpg
 name: DeepSouthMS3
 title: Live Social Streamer
-typography_spectrum: 1
